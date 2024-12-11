@@ -8,7 +8,7 @@
   "main": "tailwind.config.js",
   "devDependencies": {},
   "scripts": {
-    "buildcss": "npx tailwindcss -i ./src/input.css -o ./public/style.css --watch"
+    "buildcss": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
   },
   "keywords": [],
   "author": "",
